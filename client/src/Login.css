@@ -1,0 +1,12 @@
+.alignToCenter {
+  text-align: center;
+  height: 200px;
+  width: 500px;
+  padding: 20px;
+  color: white;
+  margin: 0 auto;
+}
+
+.login {
+ background-color: green;
+}
